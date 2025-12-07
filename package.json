@@ -9,7 +9,12 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "bcrypt": "^6.0.0",
+    "date-fns": "^4.1.0",
+    "jsonwebtoken": "^9.0.2",
     "lucide-react": "^0.548.0",
+    "mongoose": "^8.19.2",
     "next": "15.5.5",
     "react": "19.1.0",
     "react-dom": "19.1.0"
